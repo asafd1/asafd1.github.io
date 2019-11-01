@@ -1,0 +1,228 @@
+  ATG   CAC   AGA   TCC   ACT   TTT   ATC   AGG   ACG   TCC 
+  TAC   GTG   TCT   AGG   TGA   AAA   TAG   TCC   TGC   AGG 
+  Met   His   Arg   Ser   Thr   Phe   Ile   Arg   Thr   Ser 
+    1     2     3     4     5     6     7     8     9    10 
+
+  GGC   ACG   AGC   TCT   AGG   ACA   CTA   ACC   GCA   AGG 
+  CCG   TGC   TCG   AGA   TCC   TGT   GAT   TGG   CGT   TCC 
+  Gly   Thr   Ser   Ser   Arg   Thr   Leu   Thr   Ala   Arg 
+   11    12    13    14    15    16    17    18    19    20 
+
+  TAC   AGA   TCG   CAG   TAC   ACA   GGA   TTA   CTC   GTT 
+  ATG   TCT   AGC   GTC   ATG   TGT   CCT   AAT   GAG   CAA 
+  Tyr   Arg   Ser   Gln   Tyr   Thr   Gly   Leu   Leu   Val 
+   21    22    23    24    25    26    27    28    29    30 
+
+  GCC   CGA   GTA   TTA   TTC   TCC   ACC   TCT   ACG   ACC 
+  CGG   GCT   CAT   AAT   AAG   AGG   TGG   AGA   TGC   TGG 
+  Ala   Arg   Val   Leu   Phe   Ser   Thr   Ser   Thr   Thr 
+   31    32    33    34    35    36    37    38    39    40 
+
+  CGT   GCG   CAA   GGT   GGA   AAC   CCT   CGA   TCA   CCA 
+  GCA   CGC   GTT   CCA   CCT   TTG   GGA   GCT   AGT   GGT 
+  Arg   Ala   Gln   Gly   Gly   Asn   Pro   Arg   Ser   Pro 
+   41    42    43    44    45    46    47    48    49    50 
+
+  CTC   CAG   ATT   TTC   CGC   GAT   ACA   TTC   AAG   AAG 
+  GAG   GTC   TAA   AAG   GCG   CTA   TGT   AAG   TTC   TTC 
+  Leu   Gln   Ile   Phe   Arg   Asp   Thr   Phe   Lys   Lys 
+   51    52    53    54    55    56    57    58    59    60 
+
+  GAA   TGG   GAG   AAG   TCT   CAG   GAA   CTG   CAG   GAG 
+  CTT   ACC   CTC   TTC   AGA   GTC   CTT   GAC   GTC   CTC 
+  Glu   Trp   Glu   Lys   Ser   Gln   Glu   Leu   Gln   Glu 
+   61    62    63    64    65    66    67    68    69    70 
+
+  AAC   ATA   AAG   ACG   CTG   CAA   GAT   GCT   TCG   GGA 
+  TTG   TAT   TTC   TGC   GAC   GTT   CTA   CGA   AGC   CCT 
+  Asn   Ile   Lys   Thr   Leu   Gln   Asp   Ala   Ser   Gly 
+   71    72    73    74    75    76    77    78    79    80 
+
+  AAG   TTA   GGC   GAG   TCT   GAG   GCC   TAC   AAA   AAG 
+  TTC   AAT   CCG   CTC   AGA   CTC   CGG   ATG   TTT   TTC 
+  Lys   Leu   Gly   Glu   Ser   Glu   Ala   Tyr   Lys   Lys 
+   81    82    83    84    85    86    87    88    89    90 
+
+
+
+  GCT   AGG   GAA   GCA   TAT   TTG   AAA   GCT   CAG   AGA 
+  CGA   TCC   CTT   CGT   ATA   AAC   TTT   CGA   GTC   TCT 
+  Ala   Arg   Glu   Ala   Tyr   Leu   Lys   Ala   Gln   Arg 
+   91    92    93    94    95    96    97    98    99   100 
+
+  GGC   TCC   ACA   ATT   GTG   GGT   AAA   ACT   CTG   AAA 
+  CCG   AGG   TGT   TAA   CAC   CCA   TTT   TGA   GAC   TTT 
+  Gly   Ser   Thr   Ile   Val   Gly   Lys   Thr   Leu   Lys 
+  101   102   103   104   105   106   107   108   109   110 
+
+  AAG   ACC   GGT   GAG   ACC   ATG   GAA   CAT   ATA   GCC 
+  TTC   TGG   CCA   CTC   TGG   TAC   CTT   GTA   TAT   CGG 
+  Lys   Thr   Gly   Glu   Thr   Met   Glu   His   Ile   Ala 
+  111   112   113   114   115   116   117   118   119   120 
+
+  ACT   AAG   GCC   TGG   GAG   TCC   GAA   CTC   GGT   AAG 
+  TGA   TTC   CGG   ACC   CTC   AGG   CTT   GAG   CCA   TTC 
+  Thr   Lys   Ala   Trp   Glu   Ser   Glu   Leu   Gly   Lys 
+  121   122   123   124   125   126   127   128   129   130 
+
+  AAC   ACA   AGA   AAG   GCG   GCT   GCC   GCC   ACG   GCG 
+  TTG   TGT   TCT   TTC   CGC   CGA   CGG   CGG   TGC   CGC 
+  Asn   Thr   Arg   Lys   Ala   Ala   Ala   Ala   Thr   Ala 
+  131   132   133   134   135   136   137   138   139   140 
+
+  AAG   AAG   CTG   GAT   GAG   AGT   TTT   GAG   CCA   GTG 
+  TTC   TTC   GAC   CTA   CTC   TCA   AAA   CTC   GGT   CAC 
+  Lys   Lys   Leu   Asp   Glu   Ser   Phe   Glu   Pro   Val 
+  141   142   143   144   145   146   147   148   149   150 
+
+  AGA   CAG   ACG   AAG   ATT   TAC   AAG   GAA   GTC   TCA 
+  TCT   GTC   TGC   TTC   TAA   ATG   TTC   CTT   CAG   AGT 
+  Arg   Gln   Thr   Lys   Ile   Tyr   Lys   Glu   Val   Ser 
+  151   152   153   154   155   156   157   158   159   160 
+
+  GAA   GTC   ATT   GAC   GAT   GGG   GAG   AGT   TCC   CGA 
+  CTT   CAG   TAA   CTG   CTA   CCC   CTC   TCA   AGG   GCT 
+  Glu   Val   Ile   Asp   Asp   Gly   Glu   Ser   Ser   Arg 
+  161   162   163   164   165   166   167   168   169   170 
+
+  TAC   GGT   GGG   TTT   ATC   ACG   AAA   GAG   CAA   AGG 
+  ATG   CCA   CCC   AAA   TAG   TGC   TTT   CTC   GTT   TCC 
+  Tyr   Gly   Gly   Phe   Ile   Thr   Lys   Glu   Gln   Arg 
+  171   172   173   174   175   176   177   178   179   180 
+
+
+
+  AGA   CTT   AAA   CGT   GAG   AGA   GAC   CTG   GCC   TCT 
+  TCT   GAA   TTT   GCA   CTC   TCT   CTG   GAC   CGG   AGA 
+  Arg   Leu   Lys   Arg   Glu   Arg   Asp   Leu   Ala   Ser 
+  181   182   183   184   185   186   187   188   189   190 
+
+  GGG   AAA   AGA   CAC   AGG   GCA   GTA   AAG   AGC   AAT 
+  CCC   TTT   TCT   GTG   TCC   CGT   CAT   TTC   TCG   TTA 
+  Gly   Lys   Arg   His   Arg   Ala   Val   Lys   Ser   Asn 
+  191   192   193   194   195   196   197   198   199   200 
+
+  GAA   GAT   GCA   GGA   ACA   GCA   GTG   GTT   GCG   ACA 
+  CTT   CTA   CGT   CCT   TGT   CGT   CAC   CAA   CGC   TGT 
+  Glu   Asp   Ala   Gly   Thr   Ala   Val   Val   Ala   Thr 
+  201   202   203   204   205   206   207   208   209   210 
+
+  AAT   ATC   GAG   TCT   AAA   GAA   TCG   TTT   GGT   AAG 
+  TTA   TAG   CTC   AGA   TTT   CTT   AGC   AAA   CCA   TTC 
+  Asn   Ile   Glu   Ser   Lys   Glu   Ser   Phe   Gly   Lys 
+  211   212   213   214   215   216   217   218   219   220 
+
+  AAA   GTG   GAG   GAT   TTC   AAG   GAG   AAA   ACC   GTG 
+  TTT   CAC   CTC   CTA   AAG   TTC   CTC   TTT   TGG   CAC 
+  Lys   Val   Glu   Asp   Phe   Lys   Glu   Lys   Thr   Val 
+  221   222   223   224   225   226   227   228   229   230 
+
+  GTT   GGC   CGT   TCT   ATA   CAA   TCT   TTA   AAG   AAC 
+  CAA   CCG   GCA   AGA   TAT   GTT   AGA   AAT   TTC   TTG 
+  Val   Gly   Arg   Ser   Ile   Gln   Ser   Leu   Lys   Asn 
+  231   232   233   234   235   236   237   238   239   240 
+
+  AAA   TTG   TGG   GAT   GAA   AGT   GAA   AAC   CCC   TTA 
+  TTT   AAC   ACC   CTA   CTT   TCA   CTT   TTG   GGG   AAT 
+  Lys   Leu   Trp   Asp   Glu   Ser   Glu   Asn   Pro   Leu 
+  241   242   243   244   245   246   247   248   249   250 
+
+  ATT   GTT   GTC   ATG   AGG   AAA   ATA   ACC   AAC   AAA 
+  TAA   CAA   CAG   TAC   TCC   TTT   TAT   TGG   TTG   TTT 
+  Ile   Val   Val   Met   Arg   Lys   Ile   Thr   Asn   Lys 
+  251   252   253   254   255   256   257   258   259   260 
+
+  GTG   GGC   GGT   TTC   TTT   GCA   GAA   ACA   GAA   TCC 
+  CAC   CCG   CCA   AAG   AAA   CGT   CTT   TGT   CTT   AGG 
+  Val   Gly   Gly   Phe   Phe   Ala   Glu   Thr   Glu   Ser 
+  261   262   263   264   265   266   267   268   269   270 
+
+
+
+  TCC   CGT   GTT   TAC   AGT   CAA   TTT   AAG   CTA   ATG 
+  AGG   GCA   CAA   ATG   TCA   GTT   AAA   TTC   GAT   TAC 
+  Ser   Arg   Val   Tyr   Ser   Gln   Phe   Lys   Leu   Met 
+  271   272   273   274   275   276   277   278   279   280 
+
+  GAC   CCA   ACC   TTT   TCG   AAC   GAA   AGC   TTC   ACC 
+  CTG   GGT   TGG   AAA   AGC   TTG   CTT   TCG   AAG   TGG 
+  Asp   Pro   Thr   Phe   Ser   Asn   Glu   Ser   Phe   Thr 
+  281   282   283   284   285   286   287   288   289   290 
+
+  AGA   CAC   TTA   AGA   GAA   TAC   ATT   GTT   CCC   GAG 
+  TCT   GTG   AAT   TCT   CTT   ATG   TAA   CAA   GGG   CTC 
+  Arg   His   Leu   Arg   Glu   Tyr   Ile   Val   Pro   Glu 
+  291   292   293   294   295   296   297   298   299   300 
+
+  ATT   CTC   GAA   GCG   TAT   GTG   AAA   GGC   GAT   GTC 
+  TAA   GAG   CTT   CGC   ATA   CAC   TTT   CCG   CTA   CAG 
+  Ile   Leu   Glu   Ala   Tyr   Val   Lys   Gly   Asp   Val 
+  301   302   303   304   305   306   307   308   309   310 
+
+  AAA   GTT   CTC   AAA   AAA   TGG   TTC   AGC   GAG   GCG 
+  TTT   CAA   GAG   TTT   TTT   ACC   AAG   TCG   CTC   CGC 
+  Lys   Val   Leu   Lys   Lys   Trp   Phe   Ser   Glu   Ala 
+  311   312   313   314   315   316   317   318   319   320 
+
+  CCA   TTC   AAT   GTT   TAC   GCC   GCC   CAA   CAG   AAA 
+  GGT   AAG   TTA   CAA   ATG   CGG   CGG   GTT   GTC   TTT 
+  Pro   Phe   Asn   Val   Tyr   Ala   Ala   Gln   Gln   Lys 
+  321   322   323   324   325   326   327   328   329   330 
+
+  ATC   TTC   AAA   GAA   CAG   GAT   GTT   TAC   GCC   GAT 
+  TAG   AAG   TTT   CTT   GTC   CTA   CAA   ATG   CGG   CTA 
+  Ile   Phe   Lys   Glu   Gln   Asp   Val   Tyr   Ala   Asp 
+  331   332   333   334   335   336   337   338   339   340 
+
+  GGC   CGT   ATC   CTA   GAT   ATC   AGG   GGC   GTT   GAA 
+  CCG   GCA   TAG   GAT   CTA   TAG   TCC   CCG   CAA   CTT 
+  Gly   Arg   Ile   Leu   Asp   Ile   Arg   Gly   Val   Glu 
+  341   342   343   344   345   346   347   348   349   350 
+
+  ATA   GTG   AGT   GCA   AAG   TTA   TTG   GCT   CCC   CAA 
+  TAT   CAC   TCA   CGT   TTC   AAT   AAC   CGA   GGG   GTT 
+  Ile   Val   Ser   Ala   Lys   Leu   Leu   Ala   Pro   Gln 
+  351   352   353   354   355   356   357   358   359   360 
+
+
+
+  GAC   ATC   CCA   GTC   TTG   GTG   GTC   GGG   TGT   AGA 
+  CTG   TAG   GGT   CAG   AAC   CAC   CAG   CCC   ACA   TCT 
+  Asp   Ile   Pro   Val   Leu   Val   Val   Gly   Cys   Arg 
+  361   362   363   364   365   366   367   368   369   370 
+
+  GCA   CAA   GAA   ATC   AAC   CTT   TAC   AGG   AAA   AAG 
+  CGT   GTT   CTT   TAG   TTG   GAA   ATG   TCC   TTT   TTC 
+  Ala   Gln   Glu   Ile   Asn   Leu   Tyr   Arg   Lys   Lys 
+  371   372   373   374   375   376   377   378   379   380 
+
+  AAA   ACT   GGC   GAG   ATT   GCG   GCT   GGT   GAC   GAA 
+  TTT   TGA   CCG   CTC   TAA   CGC   CGA   CCA   CTG   CTT 
+  Lys   Thr   Gly   Glu   Ile   Ala   Ala   Gly   Asp   Glu 
+  381   382   383   384   385   386   387   388   389   390 
+
+  GCT   AAT   ATC   TTG   ATG   AGC   TCT   TAT   GCC   ATG 
+  CGA   TTA   TAG   AAC   TAC   TCG   AGA   ATA   CGG   TAC 
+  Ala   Asn   Ile   Leu   Met   Ser   Ser   Tyr   Ala   Met 
+  391   392   393   394   395   396   397   398   399   400 
+
+  GTT   TTC   ACC   AGA   GAC   CCA   GAG   CAA   ATC   GAC 
+  CAA   AAG   TGG   TCT   CTG   GGT   CTC   GTT   TAG   CTG 
+  Val   Phe   Thr   Arg   Asp   Pro   Glu   Gln   Ile   Asp 
+  401   402   403   404   405   406   407   408   409   410 
+
+  GAT   GAC   GAA   ACA   GAA   GGG   TGG   AAG   ATC   TTG 
+  CTA   CTG   CTT   TGT   CTT   CCC   ACC   TTC   TAG   AAC 
+  Asp   Asp   Glu   Thr   Glu   Gly   Trp   Lys   Ile   Leu 
+  411   412   413   414   415   416   417   418   419   420 
+
+  GAG   TTT   GTG   CGC   GGG   GGT   TCT   AGA   CAA   TTC 
+  CTC   AAA   CAC   GCG   CCC   CCA   AGA   TCT   GTT   AAG 
+  Glu   Phe   Val   Arg   Gly   Gly   Ser   Arg   Gln   Phe 
+  421   422   423   424   425   426   427   428   429   430 
+
+  ACC   TGA 
+  TGG   ACT 
+  Thr     * 
+  431   432 
+
