@@ -13,8 +13,17 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Build the site in the jekyll/builder container
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7  # Change this to the Ruby version you are using
+
+    - name: Install dependencies
       run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        gem install bundler
+        bundle install
+
+    - name: Build the site
+      run: |
+        bundle exec jekyll build --future
