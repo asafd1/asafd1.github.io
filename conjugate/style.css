@@ -43,15 +43,19 @@ h1 {
   color: blue;
 }
 
-#user-input {
+/* Ensure text box and button widths match the container */
+#user-input, button {
   width: 100%;
+  box-sizing: border-box; /* Ensure padding is included in width calculation */
+}
+
+#user-input {
   padding: 10px;
   font-size: 1em;
   margin-bottom: 10px;
 }
 
 button {
-  width: 100%;
   padding: 10px;
   background-color: #007bff;
   color: white;
