@@ -1,22 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Verb Conjugation Practice</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="container">
-    <h1>Verb Conjugation Practice</h1>
-    <div id="prompt"></div>
+<div class="container">
+  <h1>Verb Conjugation Practice</h1>
 
-    <input type="text" id="user-input" placeholder="Type your sentence here">
-    <button id="submit-btn">Submit</button>
+  <!-- Verb in bold and larger font -->
+  <div id="verb" class="verb"></div>
 
-    <div id="feedback"></div>
+  <!-- Prompt details (subject, tense, form) -->
+  <div id="prompt" class="prompt"></div>
 
-    <script src="script.js"></script>
-  </div>
-</body>
-</html>
+  <input type="text" id="user-input" placeholder="Type your sentence here">
+  <button id="submit-btn">Submit</button>
+
+  <div id="feedback"></div>
+
+  <script src="script.js"></script>
+</div>

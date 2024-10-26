@@ -18,9 +18,29 @@ h1 {
   margin-bottom: 20px;
 }
 
-#prompt {
-  font-size: 1.2em;
+/* Verb styling */
+.verb {
+  font-size: 1.5em;
+  font-weight: bold;
   margin-bottom: 10px;
+}
+
+/* Prompt details styling */
+.prompt {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.prompt .subject {
+  color: green;
+}
+
+.prompt .tense {
+  color: purple;
+}
+
+.prompt .form {
+  color: blue;
 }
 
 #user-input {
